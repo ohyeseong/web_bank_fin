@@ -9,6 +9,10 @@
     padding: 0 10px;
 }
 
+.wrap{
+    max-width: 1920px;
+}
+
 .toggle_btn_m{}
 
 .toggle_btn_m a{
